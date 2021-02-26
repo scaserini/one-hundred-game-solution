@@ -68,22 +68,3 @@ def resolveGame(board, indx = 1):
 
 resolveGame(gameboard)
     
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
